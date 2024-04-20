@@ -324,13 +324,13 @@ nav i:hover {
   text-decoration: underline;
 }
 
-/*Responsiveness*/
-@media only screen and(min-width: 768px){
-  main {
-    width: 100%;
-  }
+.icon3 i{
+  font-size: 35px;
+  margin-right: 15px;
+  margin-top: 20px;
+  cursor: pointer;
+}
 
-  .logo{
-    display: none;
-  }
+.icon3 i:hover{
+  color: rgb(154, 25, 25);
 }
